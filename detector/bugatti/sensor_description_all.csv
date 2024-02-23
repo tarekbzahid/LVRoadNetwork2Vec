@@ -1,0 +1,931 @@
+DetectorID,RoadType,Location
+379.1.109,Freeway,I-515 NB between Stephanie Street and Sunset Road
+379.2.302,Freeway,I-515 NB between Stephanie Street and Sunset Road
+380.1.306,Freeway,I-515 NB between Sunset Road and Warm Springs Road
+380.2.105,Freeway,I-515 NB between Sunset Road and Warm Springs Road
+381.3.102,Freeway,I-515 NB between Warm Springs Road and American Pacific Drive
+382.1.373,Freeway,I-515 NB between American Pacific Drive and Waterwheel Falls Drive
+382.2.370,Freeway,I-515 NB between American Pacific Drive and Waterwheel Falls Drive
+382.3.369,Freeway,I-515 NB between American Pacific Drive and Waterwheel Falls Drive
+383.1.377,Freeway,I-515 NB between Waterwheel Falls Drive and Long Acres Drive
+383.2.375,Freeway,I-515 NB between Waterwheel Falls Drive and Long Acres Drive
+383.3.374,Freeway,I-515 NB between Waterwheel Falls Drive and Long Acres Drive
+384.1.384,Freeway,I-515 NB between Long Acres Drive and Appian Drive
+384.2.383,Freeway,I-515 NB between Long Acres Drive and Appian Drive
+385.1.390,Freeway,I-515 NB between Appian Drive and College Drive
+385.2.389,Freeway,I-515 NB between Appian Drive and College Drive
+385.3.387,Freeway,I-515 NB between Appian Drive and College Drive
+386.1.399,Freeway,I-515 NB between College Drive and Bitterroot Street
+386.2.398,Freeway,I-515 NB between College Drive and Bitterroot Street
+386.3.396,Freeway,I-515 NB between College Drive and Bitterroot Street
+386.4.395,Freeway,I-515 NB between College Drive and Bitterroot Street
+387.1.407,Freeway,I-515 NB between Bitterroot Street and Wagon Wheel Drive
+387.2.406,Freeway,I-515 NB between Bitterroot Street and Wagon Wheel Drive
+387.4.400,Freeway,I-515 NB between Bitterroot Street and Wagon Wheel Drive
+388.1.245,Freeway,I-15 SB between Colton Avenue and Cartier Avenue
+388.3.243,Freeway,I-15 SB between Colton Avenue and Cartier Avenue
+391.1.415,Freeway,I-15 SB between Smiley Road and Craig Road
+391.2.410,Freeway,I-15 SB between Smiley Road and Craig Road
+391.3.252,Freeway,I-15 SB between Smiley Road and Craig Road
+392.1.421,Freeway,I-15 SB between Ann Road and Smiley Road
+392.2.420,Freeway,I-15 SB between Ann Road and Smiley Road
+392.3.416,Freeway,I-15 SB between Ann Road and Smiley Road
+393.1.432,Freeway,I-15 SB between Clark County 215 and Ann Road
+393.2.429,Freeway,I-15 SB between Clark County 215 and Ann Road
+393.3.428,Freeway,I-15 SB between Clark County 215 and Ann Road
+393.4.426,Freeway,I-15 SB between Clark County 215 and Ann Road
+394.1.434,Freeway,I-15 SB between Centennial Parkway and Clark County 215
+394.2.433,Freeway,I-15 SB between Centennial Parkway and Clark County 215
+395.1.445,Freeway,I-15 SB between Speedway Boulevard and Centennial Parkway
+395.2.442,Freeway,I-15 SB between Speedway Boulevard and Centennial Parkway
+395.3.441,Freeway,I-15 SB between Speedway Boulevard and Centennial Parkway
+395.4.440,Freeway,I-15 SB between Speedway Boulevard and Centennial Parkway
+396.1.243,Freeway,I-15 NB between Cartier Avenue and Colton Avenue
+396.2.246,Freeway,I-15 NB between Cartier Avenue and Colton Avenue
+396.3.246,Freeway,I-15 NB between Cartier Avenue and Colton Avenue
+398.2.251,Freeway,I-15 NB between Alexander Road and Craig Road
+398.3.411,Freeway,I-15 NB between Alexander Road and Craig Road
+399.1.413,Freeway,I-15 NB between Craig Road and Smiley Road
+399.2.414,Freeway,I-15 NB between Craig Road and Smiley Road
+399.3.417,Freeway,I-15 NB between Craig Road and Smiley Road
+399.4.418,Freeway,I-15 NB between Craig Road and Smiley Road
+400.1.423,Freeway,I-15 NB between Smiley Road and Ann Road
+400.2.425,Freeway,I-15 NB between Smiley Road and Ann Road
+400.3.430,Freeway,I-15 NB between Smiley Road and Ann Road
+400.4.431,Freeway,I-15 NB between Smiley Road and Ann Road
+401.1.435,Freeway,I-15 NB between Ann Road and Clark County 215
+401.2.437,Freeway,I-15 NB between Ann Road and Clark County 215
+402.1.438,Freeway,I-15 NB between Clark County 215 and Centennial Parkway
+402.2.439,Freeway,I-15 NB between Clark County 215 and Centennial Parkway
+402.3.443,Freeway,I-15 NB between Clark County 215 and Centennial Parkway
+402.4.444,Freeway,I-15 NB between Clark County 215 and Centennial Parkway
+403.1.447,Freeway,I-15 NB between Centennial Parkway and Speedway Boulevard
+403.2.533,Freeway,I-15 NB between Centennial Parkway and Speedway Boulevard
+403.3.534,Freeway,I-15 NB between Centennial Parkway and Speedway Boulevard
+403.4.535,Freeway,I-15 NB between Centennial Parkway and Speedway Boulevard
+403.5.536,Freeway,I-15 NB between Centennial Parkway and Speedway Boulevard
+404.1.200,Freeway,US-95 SB between Meadows Lane and Torrey Pines Drive
+404.2.212,Freeway,US-95 SB between Meadows Lane and Torrey Pines Drive
+404.3.212,Freeway,US-95 SB between Meadows Lane and Torrey Pines Drive
+405.1.213,Freeway,US-95 SB between Torrey Pines Drive and Rainbow Boulevard
+405.2.206,Freeway,US-95 SB between Torrey Pines Drive and Rainbow Boulevard
+405.3.721,Freeway,US-95 SB between Torrey Pines Drive and Rainbow Boulevard
+406.1.219,Freeway,US-95 SB between Rainbow Boulevard and Lake Mead Boulevard
+406.2.232,Freeway,US-95 SB between Rainbow Boulevard and Lake Mead Boulevard
+406.3.232,Freeway,US-95 SB between Rainbow Boulevard and Lake Mead Boulevard
+4.1.1,Freeway,CC-215 EB between I-215 EB Decatur On-Ramp and I-215 EB to I-15 SB Ramp
+3.2.1,On-Ramp,I-215 EB Decatur On-Ramp between Decatur Road and CC-215 EB
+9.1.3,Freeway,CC-215 WB between I-15 SB to I-215 WB/EB Ramp and I-215 WB Decatur Off-Ramp
+4.2.4,Freeway,CC-215 EB between I-215 EB Decatur On-Ramp and I-215 EB to I-15 SB Ramp
+8.2.5,Freeway,CC-215 WB between I-215 WB to I-15 SB Ramp and I-15 SB to I-215 WB/EB Ramp
+29.2.5,Interchange,I-15 SB to I-215 WB/EB Ramp between I-15 SB and CC-215 WB
+5.1.6,Freeway,CC-215 EB between I-215 EB to I-15 SB Ramp and I-215 EB to I-15 NB Ramp
+15.1.6,Interchange,I-215 EB to I-15 SB Ramp between CC-215 EB and I-15 SB
+15.2.6,Interchange,I-215 EB to I-15 SB Ramp between CC-215 EB and I-15 SB
+8.1.7,Freeway,CC-215 WB between I-215 WB to I-15 SB Ramp and I-15 SB to I-215 WB/EB Ramp
+31.1.7,Interchange,I-215 WB to I-15 SB Ramp between CC-215 WB and I-15 SB
+517.3.9,Freeway,I 15 Exp NB between Clark County 215 and Warm Springs Road
+40.1.9,Freeway,I-15 SB between I-15 SB to I-215 WB/EB Ramp and I-215 WB to I-15 SB Ramp
+49.2.12,Freeway,I-15 NB between I-15 NB Russell Off-Ramp and I-15 NB Russell On-Ramp
+523.1.12,Freeway,I-15 NB CD between Russell Road and Oquendo
+50.2.12,Off-Ramp,I-15 NB Russell Off-Ramp between I-15 NB and Russell Road
+531.1.12,Off-Ramp,Frank Sinatra Drive between I-15 SB and Frank Sinatra Drive
+529.2.13,Freeway,I-15 SB CD between Oquendo and Russell Road
+57.1.13,Freeway,I-15 SB between I-15 SB Russell On-Ramp and I-15 SB to I-215 WB/EB Ramp
+55.1.13,On-Ramp,I-15 SB Russell On-Ramp between Russell Road and I-15 SB
+464.3.15,Freeway,I 15 Exp SB between I-15 SB Russell Off-Ramp and Russell Road
+49.3.15,Freeway,I-15 NB between I-15 NB Russell Off-Ramp and I-15 NB Russell On-Ramp
+522.2.15,Freeway,I-15 NB CD between Hacienda Avenue and Russell Road
+457.2.16,Freeway,I 15 Exp NB between I-15 NB Russell On-Ramp and Hacienda Avenue
+69.2.16,Freeway,I-15 SB between I-15 SB Tropicana On-Ramp and I-15 SB Russell Off-Ramp
+530.1.16,Freeway,I-15 SB CD between Hacienda Avenue and Tropicana Avenue
+464.2.17,Freeway,I 15 Exp SB between Hacienda Avenue and I-15 SB Russell Off-Ramp
+58.2.17,Freeway,I-15 NB between I-15 NB Russell On-Ramp and I-15 NB Tropicana Off-Ramp
+522.1.17,Freeway,I-15 NB CD between Hacienda Avenue and Russell Road
+458.1.18,Freeway,I 15 Exp NB between Tropicana Avenue and Tompkins
+59.2.18,Freeway,I-15 NB between I-15 NB Tropicana Off-Ramp and I-15 NB Tropicana On-Ramp
+61.3.18,Off-Ramp,I-15 NB Tropicana On-Ramp between I-15 NB and Tropicana Avenue
+63.2.18,On-Ramp,I-15 NB Tropicana Ave On-Ramp between Tropicana Avenue and I-15 NB
+463.3.19,Freeway,I 15 Exp SB between Tompkins and Tropicana Avenue
+64.1.19,Freeway,I-15 SB between I-15 SB Tropicana Off-Ramp and I-15 SB Tropicana On-Ramp
+65.1.19,Off-Ramp,I-15 SB Tropicana Off-Ramp between I-15 SB and Tropicana Avenue
+65.2.19,Off-Ramp,I-15 SB Tropicana Off-Ramp between I-15 SB and Tropicana Avenue
+463.2.20,Freeway,I 15 Exp SB between Harmon Ave and Tompkins
+78.2.20,Freeway,I-15 SB between I-15 SB Flamingo On-Ramp and I-15 SB Tropicana Off-Ramp
+458.2.21,Freeway,I 15 Exp NB between Tompkins and Harmon Ave
+70.2.21,Freeway,I-15 NB between I-15 NB Tropicana On-Ramp and I-15 NB Flamingo EB Off-Ramp
+458.3.23,Freeway,I 15 Exp NB between Harmon Ave and Flamingo Road
+71.2.23,Freeway,I-15 NB between I-15 NB Flamingo EB Off-Ramp and I-15 NB Spring Mtn Off-Ramp
+73.2.23,Off-Ramp,I-15 NB Flamingo EB Off-Ramp between I-15 NB and Flamingo Road
+463.1.24,Freeway,I 15 Exp SB between Flamingo Road and Harmon Ave
+77.2.24,Freeway,I-15 SB between I-15 SB Flamingo EB Off-Ramp and I-15 SB Flamingo On-Ramp
+81.2.24,On-Ramp,I-15 SB Flamingo On-Ramp between Flamingo Road and I-15 SB
+665.1.25,Freeway,CC-215 WB between Charleston Boulevard and I-515 SB College On Ramp
+676.1.25,On-Ramp,I-215 NB Jones OnRamp between Lake Mead Boulevard and Cheyenne Avenue
+462.3.26,Freeway,I 15 Exp SB between Twain and Flamingo Road
+76.2.26,Freeway,I-15 SB between I-15 SB Flamingo WB Off-Ramp and I-15 SB Flamingo EB Off-Ramp
+462.2.27,Freeway,I 15 Exp SB between Highland and Twain
+92.2.27,Freeway,I-15 SB between I-15 SB Spring Mtn On-Ramp and I-15 SB Flamingo WB Off-Ramp
+459.2.28,Freeway,I 15 Exp NB between Twain and Highland
+72.2.28,Freeway,I-15 NB between I-15 NB Spring Mtn Off-Ramp and I-15 NB Flamingo On-Ramp
+459.3.28,Freeway,I 15 Exp NB between Highland and Spring Mountain Road
+89.1.28,Freeway,I-15 NB between I-15 NB Spring Mtn WB On-Ramp and I-15 NB Desert Inn On-Ramp
+88.1.28,On-Ramp,I-15 NB Spring Mtn EB On-Ramp between Spring Mountain Road and I-15 NB
+91.2.29,Freeway,I-15 SB between I-15 SB Spring Mtn Off-Ramp and I-15 SB Spring Mtn On-Ramp
+95.1.29,On-Ramp,I-15 SB Spring Mtn On-Ramp between Spring Mountain Road and I-15 SB
+89.2.30,Freeway,I-15 NB between I-15 NB Spring Mtn WB On-Ramp and I-15 NB Desert Inn On-Ramp
+90.2.30,On-Ramp,I-15 NB Spring Mtn WB On-Ramp between Spring Mountain Road and I-15 NB
+461.4.31,Freeway,I 15 Exp SB between Desert Inn Road and Spring Mountain Road
+91.1.31,Freeway,I-15 SB between I-15 SB Spring Mtn Off-Ramp and I-15 SB Spring Mtn On-Ramp
+461.3.32,Freeway,I 15 Exp SB between Meade and Desert Inn Road
+98.3.32,Freeway,I-15 SB between I-15 SB Sahara On-Ramp and I-15 SB Spring Mtn Off-Ramp
+97.1.33,Freeway,I-15 NB between I-15 NB Desert Inn On-Ramp and I-15 NB Sahara Off-Ramp
+97.2.33,Freeway,I-15 NB between I-15 NB Desert Inn On-Ramp and I-15 NB Sahara Off-Ramp
+98.2.34,Freeway,I-15 SB between I-15 SB Sahara On-Ramp and I-15 SB Spring Mtn Off-Ramp
+99.1.35,Freeway,I-15 NB between I-15 NB Sahara Off-Ramp and I-15 NB Sahara On-Ramp
+101.1.35,On-Ramp,I-15 NB Sahara On-Ramp between Sahara Avenue and I-15 NB
+102.2.37,Freeway,I-15 SB between I-15 SB Sahara Off-Ramp and I-15 SB Sahara On-Ramp
+109.1.37,On-Ramp,I-15 SB Boulder Off-Ramp between Sahara Avenue and I-15 SB
+97.3.38,Freeway,I-15 NB between I-15 NB Desert Inn On-Ramp and I-15 NB Sahara Off-Ramp
+201.1.39,On-Ramp,I-515 NB Casino Ctr On-Ramp between Casino Center Boulevard and I-515 NB
+102.1.40,Freeway,I-15 SB between I-15 SB Sahara Off-Ramp and I-15 SB Sahara On-Ramp
+103.1.40,Off-Ramp,I-15 SB Sahara WB Off-Ramp between I-15 SB and Sahara Avenue
+103.2.40,Off-Ramp,I-15 SB Sahara WB Off-Ramp between I-15 SB and Sahara Avenue
+110.1.41,Freeway,I-15 NB between I-15 NB Sahara On-Ramp and I-15 NB Charleston EB Off-Ramp
+111.1.42,Freeway,I-15 SB between I-15 SB MLK/Charleston On-Ramp and I-15 SB Sahara Off-Ramp
+117.3.43,Freeway,I-15 SB between I-15 SB MLK/Charleston Off-Ramp and I-15 SB MLK/Charleston On-Ramp
+112.2.44,Freeway,I-15 NB between I-15 NB Charleston EB Off-Ramp and I-15 NB Charleston WB Off-Ramp
+114.2.44,Off-Ramp,I-15 NB Charleston Off-Ramp between I-15 NB and Charleston Boulevard
+113.2.45,Freeway,I-15 NB between I-15 NB Charleston WB Off-Ramp and I-15 NB Charleston On-Ramp
+115.1.45,Off-Ramp,I-15 NB Grand Central Off-Ramp between I-15 NB and Grand Central Parkway
+116.2.45,On-Ramp,I-15 NB Grand Central On-Ramp between Grand Central Parkway and I-15 NB
+117.1.46,Freeway,I-15 SB between I-15 SB MLK/Charleston Off-Ramp and I-15 SB MLK/Charleston On-Ramp
+136.2.47,Freeway,I-15 SB between US-95 NB to I-15 SB Ramp and US-95 SB to I-15 SB Ramp
+171.2.47,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+122.2.48,Freeway,I-15 NB between I-15 NB Charleston On-Ramp and I-15 NB to US-95 NB Ramp
+125.2.49,Interchange,I-15 NB to US-95 NB Ramp between I-15 NB and US-95 NB
+126.1.49,Off-Ramp,I-15 NB MLK Blvd Off-Ramp between I-15 NB and Martin Luther King Boulevard
+129.2.49,Interchange,I-15 NB to US-95 SB Ramp between I-15 NB and I-515 SB
+123.2.50,Freeway,I-15 SB between US-95 SB to I-15 SB Ramp and I-15 SB MLK/Charleston Off-Ramp
+172.1.51,Freeway,I-515 SB between US-95 SB to I-15 NB Ramp and I-15 NB to US-95 SB Ramp
+180.3.51,Interchange,US-95 NB to I-15 SB Ramp between I-515 NB and I-15 SB
+175.1.51,On-Ramp,I-515 SB MLK Blvd On-Ramp between Martin Luther King Boulevard and I-515 SB
+457.3.52,Freeway,I 15 Exp NB between Hacienda Avenue and Tropicana Avenue
+69.1.52,Freeway,I-15 SB between I-15 SB Tropicana On-Ramp and I-15 SB Russell Off-Ramp
+142.2.54,Freeway,I-15 SB between I-15 SB Washington Off-Ramp and I-15 SB Washington On-Ramp
+144.1.54,On-Ramp,I-15 SB Washington On-Ramp between D Street and I-15 SB
+141.2.55,On-Ramp,I-15 NB Washington/D-St On-Ramp between Washington Avenue and I-15 NB
+156.2.57,Freeway,I-15 SB between I-15 SB  Lake Mead WB On-Ramp and I-15 SB Lake Mead EB On-Ramp
+159.2.57,On-Ramp,I-15 SB  Cheyenne Off-Ramp between Lake Mead Boulevard and I-15 SB
+210.2.59,Freeway,I-515 SB between I-515 SB Eastern On-Ramp and I-515 SB Charleston Off-Ramp
+210.3.59,Freeway,I-515 SB between I-515 SB Eastern On-Ramp and I-515 SB Charleston Off-Ramp
+211.3.61,Freeway,I-515 NB between I-515 NB Charleston On-Ramp and I-515 NB Eastern Off-Ramp
+211.2.61,Freeway,I-515 NB between I-515 NB Charleston On-Ramp and I-515 NB Eastern Off-Ramp
+204.2.62,Freeway,I-515 SB between I-515 SB Eastern Off-Ramp and I-515 SB Eastern On-Ramp
+210.1.62,Freeway,I-515 SB between I-515 SB Eastern On-Ramp and I-515 SB Charleston Off-Ramp
+207.2.63,Freeway,I-515 NB between I-515 NB Eastern Off-Ramp and I-515 NB Eastern On-Ramp
+207.1.63,Freeway,I-515 NB between I-515 NB Eastern Off-Ramp and I-515 NB Eastern On-Ramp
+204.1.64,Freeway,I-515 SB between I-515 SB Eastern Off-Ramp and I-515 SB Eastern On-Ramp
+206.1.64,On-Ramp,I-515 SB Eastern On-Ramp between Eastern Avenue and I-515 SB
+489.2.255,Freeway,CC-215 WB between Arroyo Grande Blvd and Valle Verde Dr
+484.1.255,Freeway,CC-215 EB between Valle Verde Dr and Arroyo Grande Blvd
+489.1.256,Freeway,CC-215 WB between Stephanie Street and Arroyo Grande Blvd
+484.2.256,Freeway,CC-215 EB between Arroyo Grande Blvd and Stephanie Street
+488.2.257,Freeway,CC-215 WB between Drawback St and Stephanie Street
+485.1.257,Freeway,CC-215 EB between Stephanie Street and Drawback St
+487.2.259,Freeway,CC-215 WB between La Laguna St and Gibson Rd
+486.1.259,Freeway,CC-215 EB between Gibson Rd and La Laguna St
+487.1.260,Freeway,CC-215 WB between Great Basin Hwy and La Laguna St
+486.2.260,Freeway,CC-215 EB between La Laguna St and Great Basin Hwy
+476.1.261,Freeway,CC-215 WB between Windmill Ln and Warm Springs Road
+479.2.261,Freeway,CC-215 EB between Warm Springs Road and Windmill Ln
+476.2.262,Freeway,CC-215 WB between Windmill Ln and Warm Springs Road
+479.1.262,Freeway,CC-215 EB between Warm Springs Road and Windmill Ln
+495.1.263,Interchange,215 WB to AC NB between CC-215 WB and AC NB
+477.1.263,Freeway,CC-215 WB between Warm Springs Road and Mccarran Airport Conn Rd
+6.2.264,Freeway,CC-215 EB between I-215 EB to I-15 NB Ramp and I-15 NB to I-215 EB Ramp
+7.1.264,Freeway,CC-215 WB between Las Vegas Boulevard and I-215 WB to I-15 SB Ramp
+500.1.265,Freeway,AC NB between Pilot SB and Sunset Road
+496.2.266,Interchange,215 EB to AC NB between CC-215 EB and AC NB
+495.2.266,Interchange,215 WB to AC NB between AC SB and CC-215 WB
+10.2.268,Freeway,CC-215 WB between I-215 EB Decatur Off-Ramp and I-215 EB Decatur On-Ramp
+2.1.268,Freeway,CC-215 EB between I-215 EB Decatur Off-Ramp and I-215 EB Decatur On-Ramp
+507.2.269,Freeway,CC-215 EB between Torrey Pines Drive and Jones Boulevard
+502.1.269,Freeway,CC-215 WB between Jones Boulevard and Torrey Pines Drive
+502.2.270,Freeway,CC-215 WB between Torrey Pines Drive and Rainbow Boulevard
+507.1.270,Freeway,CC-215 EB between Rainbow Boulevard and Torrey Pines Drive
+503.1.271,Freeway,CC-215 WB between Rainbow Boulevard and Tenaya
+506.2.271,Freeway,CC-215 EB between Tenaya and Rainbow Boulevard
+503.2.272,Freeway,CC-215 WB between Tenaya and Buffalo
+506.1.272,Freeway,CC-215 EB between Buffalo and Tenaya
+504.1.273,Freeway,CC-215 WB between Buffalo and Cimmaron
+222.2.285,Freeway,I-515 NB between Boulder Highway and Sahara Avenue
+220.2.286,Freeway,I-515 SB between I-15 SB Boulder Off-Ramp and I-515 SB Boulder Hwy Off-Ramp
+374.3.287,Freeway,I-515 NB between Boulder Highway and Viking Road
+360.2.288,Freeway,I-515 SB between Viking Road and Boulder Highway
+374.1.289,Freeway,I-515 NB between Boulder Highway and Viking Road
+361.3.290,Freeway,I-515 SB between Dell Santos Drive and Viking Road
+376.3.291,Freeway,I-515 NB between Dell Santos Drive and Mountain Vista Street
+363.3.292,Freeway,I-515 SB between Denning Street and Mountain Vista Street
+361.2.293,Freeway,I-515 SB between Dell Santos Drive and Viking Road
+376.2.294,Freeway,I-515 NB between Dell Santos Drive and Mountain Vista Street
+377.2.296,Freeway,I-515 NB between Mountain Vista Street and Denning Street
+363.1.297,Freeway,I-515 SB between Denning Street and Mountain Vista Street
+365.2.304,Freeway,I-515 SB between Sunset Road and Stephanie Street
+442.2.340,Freeway,I-15 NB between 2.71 Miles south of Sloan Road and 3.71 Miles south of Sloan Road
+427.2.340,Freeway,I-15 SB between 3.71 Miles south of Sloan Road and 2.71 Miles south of Sloan Road
+443.3.342,Freeway,I-15 NB between 3.71 Miles south of Sloan Road and 4.71 Miles south of Sloan Road
+428.1.342,Freeway,I-15 SB between 4.71 Miles south of Sloan Road and 3.71 Miles south of Sloan Road
+443.2.343,Freeway,I-15 NB between 3.71 Miles south of Sloan Road and 4.71 Miles south of Sloan Road
+444.3.345,Freeway,I-15 NB between 4.71 Miles south of Sloan Road and 5.71 Miles south of Sloan Road
+429.1.345,Freeway,I-15 SB between 5.71 Miles south of Sloan Road and 4.71 Miles south of Sloan Road
+445.3.346,Freeway,I-15 NB between 5.71 Miles south of Sloan Road and 6.71 Miles south of Sloan Road
+430.1.346,Freeway,I-15 SB between 6.71 Miles south of Sloan Road and 5.71 Miles south of Sloan Road
+445.1.348,Freeway,I-15 NB between 5.71 Miles south of Sloan Road and 6.71 Miles south of Sloan Road
+371.3.397,Freeway,I-515 SB between College Drive and Appian Drive
+547.1.400,On-Ramp,I-515 NB WagonWheel On Ramp between WagonWheel and I-515 NB
+548.2.401,Off-Ramp,I-515 NB Horizon Off Ramp between I-515 NB and Horizon
+552.1.402,Off-Ramp,I-515 SB NV Stateline Off Ramp between I-515 SB and NVStateline
+371.4.402,Freeway,I-515 SB between College Drive and Appian Drive
+553.1.403,On-Ramp,I-515 SB Boulder Hwy On Ramp between Boulder Hwy and I-515 SB
+409.3.409,Freeway,US-95 SB between Cheyenne Avenue and Craig Road
+589.1.410,On-Ramp,I-15 SB Craig Off Ramp between I-15 SB and Craig Rd
+391.3.410,Freeway,I-15 SB between Smiley Road and Craig Road
+576.1.412,On-Ramp,I-15 NB Craig On Ramp between I-15 NB and Craig Rd
+371.2.393,Freeway,I-515 SB between College Drive and Appian Drive
+631.1.496,Off-Ramp,I-215 SB Summerlin OffRamp between Sunset Road and Durango
+599.2.497,Freeway,CC-215 WB between I-515 SB College Off Ramp and Lake Mead Boulevard
+655.1.497,Off-Ramp,I-215 NB Lake Mead OffRamp between Sunset Road and Durango
+378.1.301,Freeway,I-515 NB between Denning Street and Stephanie Street
+351.3.317,Freeway,I-15 SB between Erie Avenue and Pyle Avenue
+352.1.318,Freeway,I-15 SB between Barbara Lane and Erie Avenue
+358.3.319,Freeway,I-15 NB between Erie Avenue and Barbara Lane
+358.2.320,Freeway,I-15 NB between Erie Avenue and Barbara Lane
+505.2.273,Freeway,CC-215 EB between Cimmaron and Buffalo
+212.1.276,Freeway,I-515 SB between I-515 SB Charleston Off-Ramp and I-515 SB Charleston On-Ramp
+215.3.277,Freeway,I-515 NB between I-515 NB Charleston Off-Ramp and I-515 NB Charleston On-Ramp
+215.1.278,Freeway,I-515 NB between I-515 NB Charleston Off-Ramp and I-515 NB Charleston On-Ramp
+604.1.498,Freeway,CC-215 EB between Lake Mead Boulevard and I-515 SB College Off Ramp
+632.1.498,On-Ramp,I-215 SB Lake Mead OnRamp between Sunset Road and Durango
+603.2.499,Freeway,CC-215 EB between Cheyenne Avenue and Lake Mead Boulevard
+633.1.499,Off-Ramp,I-215 SB Lake Mead OffRamp between Sunset Road and Durango
+601.1.503,Freeway,CC-215 WB between Cheyenne Avenue and Alexander Road
+656.1.503,On-Ramp,I-215 NB Cheyenne OnRamp between Sunset Road and Durango
+602.2.504,Freeway,CC-215 EB between Alexander Road and Cheyenne Avenue
+450.2.359,Freeway,I-15 NB between 10.71 Miles south of Sloan Road and 11.71 Miles south of Sloan Road
+435.1.359,Freeway,I-15 SB between 11.71 Miles south of Sloan Road and 10.71 Miles south of Sloan Road
+218.2.360,Freeway,I-515 SB between I-515 SB Charleston On-Ramp and I-15 SB Boulder Off-Ramp
+378.3.298,Freeway,I-515 NB between Denning Street and Stephanie Street
+378.2.299,Freeway,I-515 NB between Denning Street and Stephanie Street
+364.1.300,Freeway,I-515 SB between Stephanie Street and Denning Street
+428.2.343,Freeway,I-15 SB between 4.71 Miles south of Sloan Road and 3.71 Miles south of Sloan Road
+443.1.344,Freeway,I-15 NB between 3.71 Miles south of Sloan Road and 4.71 Miles south of Sloan Road
+428.3.344,Freeway,I-15 SB between 4.71 Miles south of Sloan Road and 3.71 Miles south of Sloan Road
+430.3.348,Freeway,I-15 SB between 6.71 Miles south of Sloan Road and 5.71 Miles south of Sloan Road
+446.3.349,Freeway,I-15 NB between 6.71 Miles south of Sloan Road and 7.71 Miles south of Sloan Road
+431.1.349,Freeway,I-15 SB between 7.71 Miles south of Sloan Road and 6.71 Miles south of Sloan Road
+574.1.394,On-Ramp,I-515 NB College Off Ramp between I-515 NB and College Drive
+372.1.404,Freeway,I-515 SB between Bitterroot Street and College Drive
+555.1.405,On-Ramp,I-515 SB WagonWheel On Ramp between WagonWheel and I-515 SB
+372.2.405,Freeway,I-515 SB between Bitterroot Street and College Drive
+546.1.406,Off-Ramp,I-515 NB WagonWheel Off Ramp between I-515 NB and WagonWheel
+372.3.408,Freeway,I-515 SB between Bitterroot Street and College Drive
+629.1.493,Off-Ramp,I-215 SB Far Hills OffRamp between Sunset Road and Durango
+605.1.494,Freeway,CC-215 EB between I-515 SB College Off Ramp and I-515 SB College On Ramp
+630.1.494,On-Ramp,I-215 SB Summerlin OnRamp between Sunset Road and Durango
+599.1.495,Freeway,CC-215 WB between I-515 SB College Off Ramp and Lake Mead Boulevard
+652.1.495,On-Ramp,I-215 NB Summerlin OnRamp between Sunset Road and Durango
+604.2.496,Freeway,CC-215 EB between Lake Mead Boulevard and I-515 SB College Off Ramp
+504.2.274,Freeway,CC-215 WB between Cimmaron and Durango
+505.1.274,Freeway,CC-215 EB between Durango and Cimmaron
+211.1.275,Freeway,I-515 NB between I-515 NB Charleston On-Ramp and I-515 NB Eastern Off-Ramp
+600.1.500,Freeway,CC-215 WB between Lake Mead Boulevard and Cheyenne Avenue
+654.1.500,On-Ramp,I-215 NB Lake Mead OnRamp between Sunset Road and Durango
+603.1.501,Freeway,CC-215 EB between Cheyenne Avenue and Lake Mead Boulevard
+634.1.501,On-Ramp,I-215 SB Cheyenne OnRamp between Sunset Road and Durango
+600.2.502,Freeway,CC-215 WB between Lake Mead Boulevard and Cheyenne Avenue
+657.1.502,Off-Ramp,I-215 NB Cheyenne OffRamp between Sunset Road and Durango
+212.3.279,Freeway,I-515 SB between I-515 SB Charleston Off-Ramp and I-515 SB Charleston On-Ramp
+221.2.279,Off-Ramp,I-515 SB Boulder Hwy Off-Ramp between I-515 SB and Boulder Highway
+221.1.279,Off-Ramp,I-515 SB Boulder Hwy Off-Ramp between I-515 SB and Boulder Highway
+218.1.280,Freeway,I-515 SB between I-515 SB Charleston On-Ramp and I-15 SB Boulder Off-Ramp
+218.3.282,Freeway,I-515 SB between I-515 SB Charleston On-Ramp and I-15 SB Boulder Off-Ramp
+219.2.282,Freeway,I-515 NB between I-515 NB Boulder Hwy Off-Ramp and I-515 NB Charleston Off-Ramp
+220.1.283,Freeway,I-515 SB between I-15 SB Boulder Off-Ramp and I-515 SB Boulder Hwy Off-Ramp
+219.1.284,Freeway,I-515 NB between I-515 NB Boulder Hwy Off-Ramp and I-515 NB Charleston Off-Ramp
+357.3.310,Freeway,I-15 NB between Pyle Avenue and Erie Avenue
+357.2.311,Freeway,I-15 NB between Pyle Avenue and Erie Avenue
+357.1.312,Freeway,I-15 NB between Pyle Avenue and Erie Avenue
+351.2.316,Freeway,I-15 SB between Erie Avenue and Pyle Avenue
+635.1.504,Off-Ramp,I-215 SB Cheyenne OffRamp between Sunset Road and Durango
+421.1.505,Freeway,US-95 NB between Clark County 215 and Ann Road
+359.1.325,Freeway,I-15 NB between Barbara Lane and Saint Rose Parkway
+358.1.325,Freeway,I-15 NB between Erie Avenue and Barbara Lane
+437.3.327,Freeway,I-15 NB between Saint Rose Parkway and Roban Street
+446.1.350,Freeway,I-15 NB between 6.71 Miles south of Sloan Road and 7.71 Miles south of Sloan Road
+431.3.350,Freeway,I-15 SB between 7.71 Miles south of Sloan Road and 6.71 Miles south of Sloan Road
+448.3.353,Freeway,I-15 NB between 8.71 Miles south of Sloan Road and 9.71 Miles south of Sloan Road
+448.1.355,Freeway,I-15 NB between 8.71 Miles south of Sloan Road and 9.71 Miles south of Sloan Road
+449.3.356,Freeway,I-15 NB between 9.71 Miles south of Sloan Road and 10.71 Miles south of Sloan Road
+434.1.356,Freeway,I-15 SB between 10.71 Miles south of Sloan Road and 9.71 Miles south of Sloan Road
+434.2.357,Freeway,I-15 SB between 10.71 Miles south of Sloan Road and 9.71 Miles south of Sloan Road
+449.2.357,Freeway,I-15 NB between 9.71 Miles south of Sloan Road and 10.71 Miles south of Sloan Road
+577.1.424,On-Ramp,I-15 NB Lamb On Ramp between Lamb and I-15 NB
+587.1.427,Off-Ramp,I-15 SB Lamb On Ramp between Lamb and I-15 SB
+585.1.432,Off-Ramp,I-15 SB 215 CC On Ramp between 215 CC and I-15 SB
+581.1.444,Off-Ramp,I-15 NB Speedway On Ramp between Speedway and I-15 NB
+584.1.445,On-Ramp,I-15 SB Speedway Off Ramp between I-15 SB and Speedway
+583.1.446,Off-Ramp,I-15 SB Speedway On Ramp between Speedway and I-15 SB
+212.2.364,Freeway,I-515 SB between I-515 SB Charleston Off-Ramp and I-515 SB Charleston On-Ramp
+437.2.328,Freeway,I-15 NB between Saint Rose Parkway and Roban Street
+422.2.328,Freeway,I-15 SB between Roban Street and Saint Rose Parkway
+438.3.329,Freeway,I-15 NB between Roban Street and Sloan Road
+421.2.506,Freeway,US-95 NB between Clark County 215 and Ann Road
+421.3.507,Freeway,US-95 NB between Clark County 215 and Ann Road
+453.2.510,Freeway,US-95 NB between CC-215 EB and Decatur Road
+453.3.511,Freeway,US-95 NB between CC-215 EB and Decatur Road
+454.1.512,Freeway,US-95 NB between CC-215 EB and Decatur Road
+454.2.513,Freeway,US-95 NB between CC-215 EB and Decatur Road
+455.1.514,Freeway,US-95 NB between I-15 NB and Flamingo Road
+412.3.515,Freeway,US-95 SB between Ann Road and Clark County 215
+365.3.305,Freeway,I-515 SB between Sunset Road and Stephanie Street
+356.2.308,Freeway,I-15 NB between Serene Avenue and Pyle Avenue
+356.1.309,Freeway,I-15 NB between Serene Avenue and Pyle Avenue
+352.2.321,Freeway,I-15 SB between Barbara Lane and Erie Avenue
+352.3.322,Freeway,I-15 SB between Barbara Lane and Erie Avenue
+353.1.323,Freeway,I-15 SB between Saint Rose Parkway and Barbara Lane
+353.2.324,Freeway,I-15 SB between Saint Rose Parkway and Barbara Lane
+433.1.353,Freeway,I-15 SB between 9.71 Miles south of Sloan Road and 8.71 Miles south of Sloan Road
+448.2.354,Freeway,I-15 NB between 8.71 Miles south of Sloan Road and 9.71 Miles south of Sloan Road
+433.2.354,Freeway,I-15 SB between 9.71 Miles south of Sloan Road and 8.71 Miles south of Sloan Road
+433.3.355,Freeway,I-15 SB between 9.71 Miles south of Sloan Road and 8.71 Miles south of Sloan Road
+692.1.516,Off-Ramp,US-95 SB Ann Rd Off-Ramp between Tropical and Clark County 215
+412.2.517,Freeway,US-95 SB between Ann Road and Clark County 215
+588.1.422,On-Ramp,I-15 SB Lamb Off Ramp between I-15 SB and Lamb
+586.1.434,On-Ramp,I-15 SB 215 CC Off Ramp between I-15 SB and 215 CC
+580.1.436,Off-Ramp,I-15 NB 215 CC Off Ramp between I-15 NB and 215 CC
+579.1.437,On-Ramp,I-15 NB 215 CC On Ramp between 215 CC and I-15 NB
+219.4.361,Freeway,I-515 NB between I-515 NB Boulder Hwy Off-Ramp and I-515 NB Charleston Off-Ramp
+215.2.362,Freeway,I-515 NB between I-515 NB Charleston Off-Ramp and I-515 NB Charleston On-Ramp
+212.4.363,Freeway,I-515 SB between I-515 SB Charleston Off-Ramp and I-515 SB Charleston On-Ramp
+452.1.508,Freeway,US-95 NB between 11.71 Miles south of Sloan Road and 12.71 Miles south of Sloan Road
+453.1.509,Freeway,US-95 NB between CC-215 EB and Decatur Road
+675.1.458,Freeway,CC-215 EB between Charleston Boulevard and Sahara Avenue
+686.1.458,On-Ramp,I-215 SB Aliante OnRamp between Flamingo Road and Tropicana Avenue
+666.3.459,Freeway,CC-215 WB between I-515 SB College On Ramp and I-515 SB College Off Ramp
+681.1.459,Off-Ramp,I-215 NB Aliante OffRamp between I-515 SB College Off Ramp and I-515 SB College On Ramp
+673.2.460,Freeway,CC-215 EB between I-515 SB College Off Ramp and I-515 SB College On Ramp
+664.1.461,Freeway,CC-215 WB between Sahara Avenue and Charleston Boulevard
+665.2.462,Freeway,CC-215 WB between Charleston Boulevard and I-515 SB College On Ramp
+423.1.329,Freeway,I-15 SB between Sloan Road and Roban Street
+438.2.330,Freeway,I-15 NB between Roban Street and Sloan Road
+423.2.330,Freeway,I-15 SB between Sloan Road and Roban Street
+438.1.331,Freeway,I-15 NB between Roban Street and Sloan Road
+423.3.331,Freeway,I-15 SB between Sloan Road and Roban Street
+439.2.333,Freeway,I-15 NB between Sloan Road and 0.71 Miles south of Sloan Road
+426.1.336,Freeway,I-15 SB between 2.71 Miles south of Sloan Road and 1.71 Miles south of Sloan Road
+441.1.338,Freeway,I-15 NB between 1.71 Miles south of Sloan Road and 2.71 Miles south of Sloan Road
+426.3.338,Freeway,I-15 SB between 2.71 Miles south of Sloan Road and 1.71 Miles south of Sloan Road
+219.3.360,Freeway,I-515 NB between I-515 NB Boulder Hwy Off-Ramp and I-515 NB Charleston Off-Ramp
+695.1.536,Off-Ramp,I-15 NB LV Blvd OffRamp between 2.71 Miles south of Sloan Road and I-15 NB
+575.1.537,Freeway,I-15 SB between N LV Hwy and Craig Rd
+216.1.365,Off-Ramp,I-515 NB Charleston Off-Ramp between I-515 NB and Charleston Boulevard
+215.4.366,Freeway,I-515 NB between I-515 NB Charleston Off-Ramp and I-515 NB Charleston On-Ramp
+367.1.367,Freeway,I-515 SB between American Pacific Drive and Warm Springs Road
+367.2.368,Freeway,I-515 SB between American Pacific Drive and Warm Springs Road
+575.5.446,Freeway,I-15 SB between N LV Hwy and Craig Rd
+582.1.447,On-Ramp,I-15 NB Speedway Off Ramp between I-15 NB and Speedway
+664.2.449,Freeway,CC-215 WB between Sahara Avenue and Charleston Boulevard
+677.1.449,Off-Ramp,I-215 NB Jones OffRamp between Cheyenne Avenue and Alexander Road
+673.1.451,Freeway,CC-215 EB between I-515 SB College Off Ramp and I-515 SB College On Ramp
+682.1.451,On-Ramp,I-215 SB Jones OnRamp between I-515 SB College On Ramp and Charleston Boulevard
+665.3.453,Freeway,CC-215 WB between I-515 SB College On Ramp and I-515 SB College Off Ramp
+679.1.453,Off-Ramp,I-215 NB Decatur OffRamp between Cheyenne Avenue and Lake Mead Boulevard
+674.1.454,Freeway,CC-215 EB between I-515 SB College On Ramp and Charleston Boulevard
+697.1.537,Off-Ramp,I-15 SB LV Blvd OnRamp between I-15 NB and 3.71 Miles south of Sloan Road
+499.2.542,Freeway,AC SB between Sunset Road and Pilot SB
+496.1.543,Interchange,215 EB to AC NB between CC-215 EB and AC NB
+674.2.463,Freeway,CC-215 EB between I-515 SB College On Ramp and Charleston Boulevard
+591.2.466,Freeway,CC-215 WB between Sunset Road and Russell Road
+639.1.466,Off-Ramp,I-215 NB Russel OffRamp between Cheyenne Avenue and Lake Mead Boulevard
+612.1.467,Freeway,CC-215 EB between Russell Road and Sunset Road
+689.3.520,Freeway,US-95 SB between Clark County 215 and Elkhorn
+689.2.521,Freeway,US-95 SB between Clark County 215 and Elkhorn
+689.1.522,Freeway,US-95 SB between Clark County 215 and Elkhorn
+690.2.523,Freeway,US-95 SB between Elkhorn and Durango
+690.1.524,Freeway,US-95 SB between Elkhorn and Durango
+619.1.473,Off-Ramp,I-215 SB Tropicana OffRamp between I-515 SB College Off Ramp and I-515 SB College On Ramp
+593.2.474,Freeway,CC-215 WB between Tropicana Avenue and Flamingo Road
+643.1.474,Off-Ramp,I-215 NB Flamingo OffRamp between Charleston Boulevard and Sahara Avenue
+594.1.476,Freeway,CC-215 WB between Flamingo Road and I-515 SB to Lake Mead Dr
+642.1.476,On-Ramp,I-215 NB Flamingo OnRamp between I-515 SB College On Ramp and Charleston Boulevard
+609.2.477,Freeway,CC-215 EB between I-515 SB to Lake Mead Dr and Flamingo Road
+621.1.477,Off-Ramp,I-215 SB Flamingo OffRamp between Charleston Boulevard and Sahara Avenue
+594.2.478,Freeway,CC-215 WB between Flamingo Road and I-515 SB to Lake Mead Dr
+548.1.376,Off-Ramp,I-515 NB Horizon Off Ramp between I-515 NB and Horizon
+550.1.378,Off-Ramp,I-515 SB Horizon Off Ramp between I-515 SB and Horizon
+368.2.379,Freeway,I-515 SB between Waterwheel Falls Drive and American Pacific Drive
+551.1.380,On-Ramp,I-515 SB Horizon On Ramp between Horizon and I-515 SB
+368.3.381,Freeway,I-515 SB between Waterwheel Falls Drive and American Pacific Drive
+424.2.333,Freeway,I-15 SB between 0.71 Miles south of Sloan Road and Sloan Road
+439.1.334,Freeway,I-15 NB between Sloan Road and 0.71 Miles south of Sloan Road
+424.3.334,Freeway,I-15 SB between 0.71 Miles south of Sloan Road and Sloan Road
+441.3.336,Freeway,I-15 NB between 1.71 Miles south of Sloan Road and 2.71 Miles south of Sloan Road
+575.4.533,Freeway,I-15 SB between N LV Hwy and Craig Rd
+575.2.535,Freeway,I-15 SB between N LV Hwy and Craig Rd
+367.3.371,Freeway,I-515 SB between American Pacific Drive and Warm Springs Road
+368.1.372,Freeway,I-515 SB between Waterwheel Falls Drive and American Pacific Drive
+684.1.454,On-Ramp,I-215 SB Decatur OnRamp between Sahara Avenue and I-515 SB to Lake Mead Dr
+666.1.455,Freeway,CC-215 WB between I-515 SB College On Ramp and I-515 SB College Off Ramp
+678.1.455,On-Ramp,I-215 NB Decatur OnRamp between Alexander Road and Cheyenne Avenue
+675.2.456,Freeway,CC-215 EB between Charleston Boulevard and Sahara Avenue
+666.2.457,Freeway,CC-215 WB between I-515 SB College On Ramp and I-515 SB College Off Ramp
+369.2.385,Freeway,I-515 SB between Long Acres Drive and Waterwheel Falls Drive
+370.1.386,Freeway,I-515 SB between Appian Drive and Long Acres Drive
+616.1.467,On-Ramp,I-215 SB Russell OnRamp between Alexander Road and Cheyenne Avenue
+592.1.468,Freeway,CC-215 WB between Russell Road and Tropicana Avenue
+412.1.518,Freeway,US-95 SB between Ann Road and Clark County 215
+688.2.519,Freeway,US-95 SB between Tropical and Clark County 215
+691.2.525,Freeway,US-95 SB between Durango and Grand Teton
+611.1.471,Freeway,CC-215 EB between Tropicana Avenue and Russell Road
+618.1.471,On-Ramp,I-215 SB Tropicana OnRamp between Lake Mead Boulevard and I-515 SB College Off Ramp
+593.1.472,Freeway,CC-215 WB between Tropicana Avenue and Flamingo Road
+640.1.472,On-Ramp,I-215 NB Tropicana OnRamp between Lake Mead Boulevard and I-515 SB College Off Ramp
+610.2.473,Freeway,CC-215 EB between Flamingo Road and Tropicana Avenue
+645.1.478,Off-Ramp,I-215 NB TownCenter OffRamp between I-515 SB to Lake Mead Dr and Flamingo Road
+609.1.479,Freeway,CC-215 EB between I-515 SB to Lake Mead Dr and Flamingo Road
+622.1.479,On-Ramp,I-215 SB TownCenter OnRamp between Sahara Avenue and I-515 SB to Lake Mead Dr
+608.2.480,Freeway,CC-215 EB between Sahara Avenue and I-515 SB to Lake Mead Dr
+623.1.480,Off-Ramp,I-215 SB TownCenter OffRamp between I-515 SB to Lake Mead Dr and Flamingo Road
+595.1.481,Freeway,CC-215 WB between I-515 SB to Lake Mead Dr and Sahara Avenue
+369.1.382,Freeway,I-515 SB between Long Acres Drive and Waterwheel Falls Drive
+648.1.488,On-Ramp,I-215 NB Charleston OnRamp between Russell Road and Sunset Road
+606.2.489,Freeway,CC-215 EB between I-515 SB College On Ramp and Charleston Boulevard
+627.1.489,Off-Ramp,I-215 SB Charleston OffRamp between Sunset Road and Durango
+597.2.490,Freeway,CC-215 WB between Charleston Boulevard and I-515 SB College On Ramp
+651.1.490,Off-Ramp,I-215 NB Far Hills OffRamp between Sunset Road and Durango
+606.1.491,Freeway,CC-215 EB between I-515 SB College On Ramp and Charleston Boulevard
+628.1.491,On-Ramp,I-215 SB Far Hills OnRamp between Sunset Road and Durango
+598.1.492,Freeway,CC-215 WB between I-515 SB College On Ramp and I-515 SB College Off Ramp
+653.1.492,Off-Ramp,I-215 NB Summerlin OffRamp between Sunset Road and Durango
+370.2.388,Freeway,I-515 SB between Appian Drive and Long Acres Drive
+572.1.391,On-Ramp,I-515 SB College Off Ramp between I-515 SB and College Drive
+370.3.391,Freeway,I-515 SB between Appian Drive and Long Acres Drive
+371.1.392,Freeway,I-515 SB between College Drive and Appian Drive
+197.2.69,Off-Ramp,I-515 NB LV Blvd Off-Ramp between I-515 NB and Las Vegas Boulevard
+199.1.70,On-Ramp,I-515 NB LV Blvd On-Ramp between Las Vegas Boulevard and I-515 NB
+194.1.71,Freeway,I-515 SB between I-515 SB LV Blvd Off-Ramp and I-515 SB LV Blvd On-Ramp
+195.1.71,Off-Ramp,I-515 SB LV Blvd Off-Ramp between I-515 SB and Las Vegas Boulevard
+163.1.72,Freeway,US-95 NB between US-95 NB Rancho Off-Ramp and US-95 NB Rancho On-Ramp
+326.1.72,Freeway,US-95 NB between US-95 NB Rancho On-Ramp and US-95 NB Valley View Off-Ramp
+179.2.75,Freeway,I-515 NB between US-95 NB to I-15 SB Ramp and US-95 NB to I-15 NB Ramp
+605.2.493,Freeway,CC-215 EB between I-515 SB College Off Ramp and I-515 SB College On Ramp
+595.2.482,Freeway,CC-215 WB between I-515 SB to Lake Mead Dr and Sahara Avenue
+647.1.482,Off-Ramp,I-215 NB Sahara OffRamp between Tropicana Avenue and Russell Road
+608.1.483,Freeway,CC-215 EB between Sahara Avenue and I-515 SB to Lake Mead Dr
+624.1.483,On-Ramp,I-215 SB Sahara OnRamp between Flamingo Road and Tropicana Avenue
+607.2.484,Freeway,CC-215 EB between Charleston Boulevard and Sahara Avenue
+597.1.488,Freeway,CC-215 WB between Charleston Boulevard and I-515 SB College On Ramp
+355.2.153,Freeway,I-15 NB between Wigwam Avenue and Serene Avenue
+520.2.155,Freeway,I 15 Exp SB between Wigwam Avenue and Pebble
+355.3.155,Freeway,I-15 NB between Wigwam Avenue and Serene Avenue
+521.1.156,Freeway,I 15 Exp SB between Pebble and Serene Avenue
+355.1.156,Freeway,I-15 NB between Wigwam Avenue and Serene Avenue
+420.2.160,Freeway,US-95 NB between Ann Road and Rancho Drive
+361.1.166,Freeway,I-515 SB between Dell Santos Drive and Viking Road
+375.3.166,Freeway,I-515 NB between Viking Road and Dell Santos Drive
+203.1.65,Freeway,I-515 NB between I-515 NB Eastern On-Ramp and I-515 NB LV Blvd Off-Ramp
+209.1.65,On-Ramp,I-515 NB Eastern On-Ramp between Eastern Avenue and I-515 NB
+202.4.66,Freeway,I-515 SB between I-515 SB LV Blvd On-Ramp and I-515 SB Eastern Off-Ramp
+205.1.66,Off-Ramp,I-515 SB Eastern Off-Ramp between I-515 SB and Eastern Avenue
+203.2.67,Freeway,I-515 NB between I-515 NB Eastern On-Ramp and I-515 NB LV Blvd Off-Ramp
+203.4.69,Freeway,I-515 NB between I-515 NB Eastern On-Ramp and I-515 NB LV Blvd Off-Ramp
+202.1.69,Freeway,I-515 SB between I-515 SB LV Blvd On-Ramp and I-515 SB Eastern Off-Ramp
+524.1.85,Freeway,I-15 NB CD between Oquendo and Sunset Road
+528.2.87,Freeway,I-15 SB CD between Clark County 215 and Sunset Road
+465.4.88,Freeway,I 15 Exp SB between Patrick Lane and CC-215 WB
+39.2.88,Freeway,I-15 NB between I-215 EB to I-15 NB Ramp and I-215 WB to I-15 NB Ramp
+38.1.91,Interchange,I-15 NB to I-215 WB Ramp between I-15 NB and CC-215 WB
+47.1.92,Interchange,I-15 NB to I-215 EB Ramp between I-15 NB and CC-215 EB
+525.1.93,Freeway,I-15 NB CD between Warm Springs Road and Robindale Road
+518.2.94,Freeway,I 15 Exp SB between Warm Springs Road and Robindale Road
+26.2.98,Freeway,CC-215 EB between I-15 NB to I-215 EB Ramp and Las Vegas Boulevard
+429.2.100,Freeway,I-15 SB between 5.71 Miles south of Sloan Road and 4.71 Miles south of Sloan Road
+429.3.100,Freeway,I-15 SB between 5.71 Miles south of Sloan Road and 4.71 Miles south of Sloan Road
+218.4.173,Freeway,I-515 SB between I-515 SB Charleston On-Ramp and I-15 SB Boulder Off-Ramp
+180.2.75,Interchange,US-95 NB to I-15 SB Ramp between I-515 NB and I-15 SB
+182.1.75,Interchange,US-95 NB to I-15 NB Ramp between I-515 NB and I-15 NB
+520.1.79,Freeway,I 15 Exp SB between Blue Diamond Road and Wigwam Avenue
+354.1.79,Freeway,I-15 NB between Robindale Road and Wigwam Avenue
+650.1.492,On-Ramp,I-215 NB Far Hills OnRamp between Sunset Road and Durango
+644.1.481,On-Ramp,I-215 NB TownCenter OnRamp between Sahara Avenue and I-515 SB to Lake Mead Dr
+494.1.544,Interchange,AC SB to 215 WB between AC SB and CC-215 WB
+497.1.545,Interchange,AC SB to 215 EB between AC SB and CC-215 EB
+25.1.547,Freeway,CC-215 WB between Gilespie Street and Las Vegas Boulevard
+638.1.468,On-Ramp,I-215 NB Russell OnRamp between Alexander Road and Cheyenne Avenue
+611.2.469,Freeway,CC-215 EB between Tropicana Avenue and Russell Road
+617.1.469,Off-Ramp,I-215 SB Russel OffRamp between Cheyenne Avenue and Lake Mead Boulevard
+592.2.470,Freeway,CC-215 WB between Russell Road and Tropicana Avenue
+641.1.470,Off-Ramp,I-215 NB Tropicana OffRamp between I-515 SB College Off Ramp and I-515 SB College On Ramp
+196.2.69,On-Ramp,I-515 SB LV Blvd On-Ramp between Las Vegas Boulevard and I-515 SB
+347.1.69,On-Ramp,I-515 SB LV Blvd On-Ramp 3 between Las Vegas Boulevard and I-515 SB
+191.1.73,Freeway,I-515 NB between I-515 NB Casino Ctr On-Ramp and US-95 NB to I-15 SB Ramp
+190.1.74,Freeway,I-515 SB between I-15 SB to US-95 Ramp and I-515 SB Casino Ctr Off-Ramp
+192.2.74,Freeway,I-515 SB between I-515 SB Casino Ctr Off-Ramp and I-515 SB LV Blvd Off-Ramp
+625.1.484,Off-Ramp,I-215 SB Sahara OffRamp between Tropicana Avenue and Russell Road
+596.1.485,Freeway,CC-215 WB between Sahara Avenue and Charleston Boulevard
+646.1.485,On-Ramp,I-215 NB Sahara OnRamp between Flamingo Road and Tropicana Avenue
+607.1.486,Freeway,CC-215 EB between Charleston Boulevard and Sahara Avenue
+626.1.486,On-Ramp,I-215 SB Charleston OnRamp between Russell Road and Sunset Road
+596.2.487,Freeway,CC-215 WB between Sahara Avenue and Charleston Boulevard
+649.1.487,Off-Ramp,I-215 NB Charleston OffRamp between Sunset Road and Durango
+420.3.160,Freeway,US-95 NB between Ann Road and Rancho Drive
+363.2.161,Freeway,I-515 SB between Denning Street and Mountain Vista Street
+377.1.162,Freeway,I-515 NB between Mountain Vista Street and Denning Street
+375.2.164,Freeway,I-515 NB between Viking Road and Dell Santos Drive
+360.3.165,Freeway,I-515 SB between Viking Road and Boulder Highway
+202.3.67,Freeway,I-515 SB between I-515 SB LV Blvd On-Ramp and I-515 SB Eastern Off-Ramp
+202.2.68,Freeway,I-515 SB between I-515 SB LV Blvd On-Ramp and I-515 SB Eastern Off-Ramp
+203.3.68,Freeway,I-515 NB between I-515 NB Eastern On-Ramp and I-515 NB LV Blvd Off-Ramp
+34.1.94,Freeway,I-15 NB between I-15 SB to I-215 EB/WB Ramp and I-215 EB to I-15 NB Ramp
+26.1.97,Freeway,CC-215 EB between I-15 NB to I-215 EB Ramp and Las Vegas Boulevard
+25.2.97,Freeway,CC-215 WB between Gilespie Street and Las Vegas Boulevard
+526.2.79,Freeway,I-15 NB CD between Blue Diamond Road and Wigwam Avenue
+181.1.80,Freeway,I-515 NB between US-95 NB to I-15 NB Ramp and US-95 NB MLK Blvd Off-Ramp
+137.1.80,Freeway,I-15 NB between US-95 NB to I-15 NB Ramp and I-15 NB Wash./D-Street Off-Ramp
+126.2.80,Off-Ramp,I-15 NB MLK Blvd Off-Ramp between I-15 NB and Martin Luther King Boulevard
+132.1.80,Freeway,I-15 SB between I-15 SB to US-95 Ramp and US-95 NB to I-15 SB Ramp
+348.2.151,Freeway,I-15 SB between Wigwam Avenue and Robindale Road
+515.1.152,Freeway,I 15 Exp NB between Pebble and Serene Avenue
+349.3.152,Freeway,I-15 SB between Serene Avenue and Wigwam Avenue
+520.3.153,Freeway,I 15 Exp SB between Pebble and Serene Avenue
+328.2.202,Freeway,US-95 NB between US-95 NB Valley View Off-Ramp and US-95 NB Valley View On-Ramp
+416.3.216,Freeway,US-95 NB between Half Moon Bay and Lake Mead Boulevard
+417.1.216,Freeway,US-95 NB between Cheyenne Avenue and Half Moon Bay
+419.2.217,Freeway,US-95 NB between Rancho Drive and Craig Road
+374.2.169,Freeway,I-515 NB between Boulder Highway and Viking Road
+465.3.83,Freeway,I 15 Exp SB between Patrick Lane and CC-215 WB
+48.2.83,Freeway,I-15 NB between I-215 WB to I-15 NB Ramp and I-15 NB Russell Off-Ramp
+411.2.222,Freeway,US-95 SB between Rancho Drive and Ann Road
+411.3.222,Freeway,US-95 SB between Rancho Drive and Ann Road
+365.1.107,Freeway,I-515 SB between Sunset Road and Stephanie Street
+570.1.108,Off-Ramp,I-515 SB to Lake Mead Dr between I-515 SB and Frank Sinatra Drive
+493.3.121,Freeway,CC-215 WB between Wigwam Ave and Windmill Ln
+480.1.121,Freeway,CC-215 EB between Windmill Ln and Wigwam Ave
+481.2.194,Freeway,CC-215 EB between McLeod Dr and Pecos Road
+492.1.194,Freeway,CC-215 WB between Pecos Road and McLeod Dr
+328.1.195,Freeway,US-95 NB between US-95 NB Valley View Off-Ramp and US-95 NB Valley View On-Ramp
+162.1.197,Freeway,US-95 SB between US-95 SB Rancho Off-Ramp and US-95 SB Rancho On-Ramp
+343.1.199,Freeway,US-95 SB between US-95 SB Jones Off-Ramp and US-95 SB Decatur Off-Ramp
+364.2.127,Freeway,I-515 SB between Stephanie Street and Denning Street
+413.3.204,Freeway,US-95 NB between Torrey Pines Drive and Meadows Lane
+327.1.205,Freeway,US-95 SB between US-95 SB Valley View On-Ramp and US-95 SB Rancho Off-Ramp
+405.3.206,Freeway,US-95 SB between Torrey Pines Drive and Rainbow Boulevard
+335.2.207,Freeway,US-95 NB between US-95 NB Valley View On-Ramp and US-95 SB Decatur Off-Ramp
+409.1.221,Freeway,US-95 SB between Cheyenne Avenue and Craig Road
+409.2.221,Freeway,US-95 SB between Cheyenne Avenue and Craig Road
+418.2.225,Freeway,US-95 NB between Craig Road and Cheyenne Avenue
+408.3.226,Freeway,US-95 SB between Half Moon Bay and Cheyenne Avenue
+411.1.229,Freeway,US-95 SB between Rancho Drive and Ann Road
+417.2.230,Freeway,US-95 NB between Cheyenne Avenue and Half Moon Bay
+417.3.230,Freeway,US-95 NB between Cheyenne Avenue and Half Moon Bay
+420.1.231,Freeway,US-95 NB between Ann Road and Rancho Drive
+339.2.203,Freeway,US-95 NB between US-95 SB Decatur Off-Ramp and US-95 SB Decatur On-Ramp
+344.1.203,Freeway,US-95 NB between US-95 SB Decatur On-Ramp and US-95 SB Jones Off-Ramp
+416.1.215,Freeway,US-95 NB between Half Moon Bay and Lake Mead Boulevard
+360.1.171,Freeway,I-515 SB between Viking Road and Boulder Highway
+222.1.172,Freeway,I-515 NB between Desert Inn Road and Boulder Highway
+529.1.81,Freeway,I-15 SB CD between Sunset Road and Oquendo
+465.2.82,Freeway,I 15 Exp SB between Oquendo and Patrick Lane
+49.1.82,Freeway,I-15 NB between I-15 NB Russell Off-Ramp and I-15 NB Russell On-Ramp
+414.3.223,Freeway,US-95 NB between Rainbow Boulevard and Torrey Pines Drive
+541.1.100,On-Ramp,I-15 SB Jean On Ramp between Jean and I-15 SB
+366.1.103,Freeway,I-515 SB between Warm Springs Road and Sunset Road
+513.1.106,Interchange,I-515 SB to I-215 WB OnRamp between I-515 SB and CC-215 WB
+326.2.195,Freeway,US-95 NB between US-95 NB Rancho On-Ramp and US-95 NB Valley View Off-Ramp
+327.2.205,Freeway,US-95 SB between US-95 SB Valley View On-Ramp and US-95 SB Rancho Off-Ramp
+419.3.217,Freeway,US-95 NB between Rancho Drive and Craig Road
+408.2.220,Freeway,US-95 SB between Half Moon Bay and Cheyenne Avenue
+407.1.226,Freeway,US-95 SB between Lake Mead Boulevard and Half Moon Bay
+408.1.227,Freeway,US-95 SB between Half Moon Bay and Cheyenne Avenue
+410.3.228,Freeway,US-95 SB between Craig Road and Rancho Drive
+480.2.122,Freeway,CC-215 EB between Wigwam Ave and Spencer St
+493.2.122,Freeway,CC-215 WB between Spencer St and Wigwam Ave
+480.3.123,Freeway,CC-215 EB between Spencer St and Eastern Avenue
+493.1.123,Freeway,CC-215 WB between Eastern Avenue and Spencer St
+481.1.124,Freeway,CC-215 EB between Eastern Avenue and McLeod Dr
+492.2.124,Freeway,CC-215 WB between McLeod Dr and Eastern Avenue
+512.1.125,Interchange,I-215 EB to I-515 NB OnRamp between CC-215 EB and I-515 NB
+364.3.126,Freeway,I-515 SB between Stephanie Street and Denning Street
+362.2.131,Freeway,I-515 SB between Mountain Vista Street and Dell Santos Drive
+362.1.132,Freeway,I-515 SB between Mountain Vista Street and Dell Santos Drive
+563.1.133,Off-Ramp,I-515 SB Galleria Off Ramp between I-515 SB and Blue Diamond Road
+376.1.134,Freeway,I-515 NB between Dell Santos Drive and Mountain Vista Street
+526.1.144,Freeway,I-15 NB CD between Blue Diamond Road and Wigwam Avenue
+525.3.145,Freeway,I-15 NB CD between Robindale Road and Blue Diamond Road
+519.1.145,Freeway,I 15 Exp SB between Robindale Road and Blue Diamond Road
+354.3.145,Freeway,I-15 NB between Robindale Road and Wigwam Avenue
+516.2.149,Freeway,I 15 Exp NB between Robindale Road and Blue Diamond Road
+348.1.149,Freeway,I-15 SB between Wigwam Avenue and Robindale Road
+515.3.150,Freeway,I 15 Exp NB between Blue Diamond Road and Wigwam Avenue
+413.1.208,Freeway,US-95 NB between Torrey Pines Drive and Meadows Lane
+415.1.223,Freeway,US-95 NB between Lake Mead Boulevard and Rainbow Boulevard
+416.2.224,Freeway,US-95 NB between Half Moon Bay and Lake Mead Boulevard
+334.2.211,Freeway,US-95 SB between US-95 SB Decatur On-Ramp and US-95 SB Valley View Off-Ramp
+474.1.211,On-Ramp,US-95 SB Decatur-Valley View CD between Decatur Road and Valley View Boulevard
+415.3.215,Freeway,US-95 NB between Lake Mead Boulevard and Rainbow Boulevard
+407.2.233,Freeway,US-95 SB between Lake Mead Boulevard and Half Moon Bay
+407.3.233,Freeway,US-95 SB between Lake Mead Boulevard and Half Moon Bay
+362.3.129,Freeway,I-515 SB between Mountain Vista Street and Dell Santos Drive
+378.4.130,Freeway,I-515 NB between Denning Street and Stephanie Street
+482.1.236,Freeway,CC-215 EB between Pecos Road and Carnegie Dr
+491.2.236,Freeway,CC-215 WB between Carnegie Dr and Pecos Road
+161.1.242,Freeway,I-15 SB between Cartier Avenue and I-15 SB  Lake Mead Off-Ramp
+160.2.242,Freeway,I-15 NB between I-15 NB  Lake Mead On-Ramp and Cartier Avenue
+414.2.209,Freeway,US-95 NB between Rainbow Boulevard and Torrey Pines Drive
+169.3.210,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+167.2.210,Freeway,US-95 NB between I-15 NB to US-95 NB Ramp and US-95 NB Rancho Off-Ramp
+166.1.210,Freeway,US-95 SB between US-95 SB Rancho On-Ramp and US-95 SB to I-15 SB Ramp
+337.2.211,Freeway,US-95 SB between US-95 SB Decatur Off-Ramp and US-95 SB Decatur On-Ramp
+469.2.251,Off-Ramp,I-15 NB Craig Road Off Ramp between I-15 NB and Craig Road
+473.1.252,On-Ramp,I-15 SB Craig WB On-Ramp between Craig Road and I-15 SB
+490.2.253,Freeway,CC-215 WB between Grand Legacy Dr and Green Valley Pkwy
+483.1.253,Freeway,CC-215 EB between Green Valley Pkwy and Grand Legacy Dr
+490.1.254,Freeway,CC-215 WB between Valle Verde Dr and Grand Legacy Dr
+483.2.254,Freeway,CC-215 EB between Grand Legacy Dr and Valle Verde Dr
+518.3.142,Freeway,I 15 Exp SB between Warm Springs Road and Robindale Road
+32.1.142,Freeway,I-15 NB between Blue Diamond Road and I-15 SB to I-215 EB/WB Ramp
+525.2.142,Freeway,I-15 NB CD between Warm Springs Road and Robindale Road
+519.2.144,Freeway,I 15 Exp SB between Blue Diamond Road and Wigwam Avenue
+354.2.144,Freeway,I-15 NB between Robindale Road and Wigwam Avenue
+413.2.208,Freeway,US-95 NB between Torrey Pines Drive and Meadows Lane
+414.1.209,Freeway,US-95 NB between Rainbow Boulevard and Torrey Pines Drive
+415.2.214,Freeway,US-95 NB between Lake Mead Boulevard and Rainbow Boulevard
+149.2.240,Freeway,I-15 NB between I-15 SB  Lake Mead Off-Ramp and I-15 NB  Lake Mead On-Ramp
+155.1.240,Freeway,I-15 SB between I-15 SB  Lake Mead Off-Ramp and I-15 SB  Lake Mead WB On-Ramp
+157.1.240,Off-Ramp,I-15 SB  Lake Mead Off-Ramp between I-15 SB and Lake Mead Boulevard
+154.2.240,On-Ramp,I-15 NB  Lake Mead EB On-Ramp between Lake Mead Boulevard and I-15 NB
+491.1.237,Freeway,CC-215 WB between Green Valley Pkwy and Carnegie Dr
+482.2.237,Freeway,CC-215 EB between Carnegie Dr and Green Valley Pkwy
+146.2.238,Freeway,I-15 NB between I-15 NB Washington/D-St On-Ramp and I-15 NB  Lake Mead EB Off-Ramp
+155.2.239,Freeway,I-15 SB between I-15 SB  Lake Mead Off-Ramp and I-15 SB  Lake Mead WB On-Ramp
+348.3.150,Freeway,I-15 SB between Wigwam Avenue and Robindale Road
+516.1.151,Freeway,I 15 Exp NB between Blue Diamond Road and Wigwam Avenue
+467.2.246,Off-Ramp,I-15 NB Cheyenne Ave Off Ramp between I-15 NB and Cheyenne Avenue
+471.2.246,On-Ramp,I-15 NB Cheyenne Ave On-Ramp between Cheyenne Avenue and I-15 NB
+397.1.247,Freeway,I-15 NB between Colton Avenue and Alexander Road
+397.2.248,Freeway,I-15 NB between Colton Avenue and Alexander Road
+398.1.249,Freeway,I-15 NB between Alexander Road and Craig Road
+418.3.234,Freeway,US-95 NB between Craig Road and Cheyenne Avenue
+419.1.234,Freeway,US-95 NB between Rancho Drive and Craig Road
+410.1.235,Freeway,US-95 SB between Craig Road and Rancho Drive
+410.2.235,Freeway,US-95 SB between Craig Road and Rancho Drive
+610.1.475,Freeway,CC-215 EB between Flamingo Road and Tropicana Avenue
+620.1.475,On-Ramp,I-215 SB Flamingo OnRamp between I-515 SB College On Ramp and Charleston Boulevard
+675.3.452,Freeway,CC-215 EB between I-515 SB College On Ramp and I-515 SB College Off Ramp
+685.1.452,Off-Ramp,I-215 SB Decatur OffRamp between I-515 SB to Lake Mead Dr and Flamingo Road
+80.2.24,Off-Ramp,I-15 SB Flamingo EB Off-Ramp between I-15 SB and Flamingo Road
+2.2.267,Freeway,CC-215 EB between I-215 EB Decatur Off-Ramp and I-215 EB Decatur On-Ramp
+445.2.347,Freeway,I-15 NB between 5.71 Miles south of Sloan Road and 6.71 Miles south of Sloan Road
+568.1.104,Freeway,I-215 WB to I-515 SB ramp between CC-215 WB and I-515 SB
+575.3.540,Freeway,I-15 SB between N LV Hwy and Craig Rd
+578.1.419,Off-Ramp,I-15 NB Lamb Off Ramp between I-15 NB and Lamb
+591.1.464,Freeway,CC-215 WB between Sunset Road and Russell Road
+636.1.464,On-Ramp,I-215 NB Sunset OnRamp between Lake Mead Boulevard and Cheyenne Avenue
+41.1.95,Freeway,I-15 SB between I-215 WB to I-15 SB Ramp and I-215 EB to I-15 SB Ramp
+41.2.140,Freeway,I-15 SB between I-215 WB to I-15 SB Ramp and I-215 EB to I-15 SB Ramp
+54.1.14,Off-Ramp,I-15 SB Russell Off-Ramp between I-15 SB and Russell Road
+349.1.154,Freeway,I-15 SB between Serene Avenue and Wigwam Avenue
+350.3.314,Freeway,I-15 SB between Pyle Avenue and Serene Avenue
+124.2.49,Freeway,I-15 NB between I-15 NB to US-95 NB Ramp and I-15 NB to I-215 WB Ramp
+134.1.80,Interchange,I-15 SB to US-95 NB & SB Ramp between I-15 SB and US-95 NB
+135.1.80,Interchange,I-15 SB to US-95 Ramp between I-15 SB and I-515 SB
+72.1.22,Freeway,I-15 NB between I-15 NB Spring Mtn Off-Ramp and I-15 NB Flamingo On-Ramp
+74.1.22,On-Ramp,I-15 NB Flamingo On-Ramp between Flamingo Road and I-15 NB
+86.1.28,Off-Ramp,I-15 NB Sping Mtn EB Off-Ramp between I-15 NB and Spring Mountain Road
+537.1.100,On-Ramp,I-15 NB Jean On Ramp between Jean and I-15 NB
+444.2.100,Freeway,I-15 NB between 4.71 Miles south of Sloan Road and 5.71 Miles south of Sloan Road
+422.1.326,Freeway,I-15 SB between Roban Street and Saint Rose Parkway
+424.1.332,Freeway,I-15 SB between 0.71 Miles south of Sloan Road and Sloan Road
+427.3.341,Freeway,I-15 SB between 3.71 Miles south of Sloan Road and 2.71 Miles south of Sloan Road
+430.2.347,Freeway,I-15 SB between 6.71 Miles south of Sloan Road and 5.71 Miles south of Sloan Road
+432.1.77,Freeway,I-15 SB between 8.71 Miles south of Sloan Road and 7.71 Miles south of Sloan Road
+432.2.351,Freeway,I-15 SB between 8.71 Miles south of Sloan Road and 7.71 Miles south of Sloan Road
+439.3.332,Freeway,I-15 NB between Sloan Road and 0.71 Miles south of Sloan Road
+442.1.341,Freeway,I-15 NB between 2.71 Miles south of Sloan Road and 3.71 Miles south of Sloan Road
+447.2.351,Freeway,I-15 NB between 7.71 Miles south of Sloan Road and 8.71 Miles south of Sloan Road
+447.3.77,Freeway,I-15 NB between 7.71 Miles south of Sloan Road and 8.71 Miles south of Sloan Road
+456.3.13,Freeway,I 15 Exp NB between Oquendo and Russell Road
+457.1.14,Freeway,I 15 Exp NB between Russell Road and I-15 NB Russell On-Ramp
+459.1.22,Freeway,I 15 Exp NB between Flamingo Road and Twain
+464.1.18,Freeway,I 15 Exp SB between Tropicana Avenue and Hacienda Avenue
+465.1.12,Freeway,I 15 Exp SB between Russell Road and Oquendo
+468.2.245,Off-Ramp,I-15 SB Cheyennne Ave Off Ramp between I-15 SB and Cheyenne Avenue
+59.1.18,Freeway,I-15 NB between I-15 NB Tropicana Off-Ramp and I-15 NB Tropicana On-Ramp
+514.1.140,Freeway,I 15 Exp NB between Serene Avenue and Silverado Ranch
+515.2.154,Freeway,I 15 Exp NB between Wigwam Avenue and Pebble
+516.3.141,Freeway,I 15 Exp NB between Warm Springs Road and Robindale Road
+527.3.141,Freeway,I-15 SB CD between Robindale Road and Warm Springs Road
+529.3.14,Freeway,I-15 SB CD between Russell Road and Hacienda Avenue
+612.2.465,Freeway,CC-215 EB between Russell Road and Sunset Road
+615.1.465,Off-Ramp,I-215 SB Sunset OffRamp between Cheyenne Avenue and Alexander Road
+10.1.267,Freeway,CC-215 WB between I-215 EB Decatur Off-Ramp and I-215 EB Decatur On-Ramp
+17.2.141,Freeway,I-15 SB between I-215 EB to I-15 SB Ramp and Blue Diamond Road
+54.2.14,Off-Ramp,I-15 SB Russell Off-Ramp between I-15 SB and Russell Road
+56.1.14,Freeway,I-15 SB between I-15 SB Russell Off-Ramp and I-15 SB Russell On-Ramp
+184.1.80,Off-Ramp,US-95 NB MLK Blvd Off-Ramp between I-515 NB and Martin Luther King Boulevard
+200.1.39,Freeway,I-515 NB between I-515 NB LV Blvd On-Ramp and I-515 NB Casino Ctr On-Ramp
+351.1.315,Freeway,I-15 SB between Erie Avenue and Pyle Avenue
+540.1.100,Off-Ramp,I-15 SB Jean Off Ramp between I-15 SB and Jean
+425.1.335,Freeway,I-15 SB between 1.71 Miles south of Sloan Road and 0.71 Miles south of Sloan Road
+440.1.335,Freeway,I-15 NB between 0.71 Miles south of Sloan Road and 1.71 Miles south of Sloan Road
+138.1.53,Freeway,I-15 NB between I-15 NB Wash./D-Street Off-Ramp and I-15 NB Washington/D-St On-Ramp
+329.2.198,Freeway,US-95 SB between US-95 SB Valley View Off-Ramp and US-95 SB Valley View On-Ramp
+693.1.538,Freeway,I-15 NB between Centennial Parkway and Speedway Boulevard
+694.1.538,Off-Ramp,I-15 NB LV Blvd OnRamp between I-15 NB and 1.71 Miles south of Sloan Road
+523.2.84,Freeway,I-15 NB CD between Oquendo and Sunset Road
+138.2.55,Freeway,I-15 NB between I-15 NB Wash./D-Street Off-Ramp and I-15 NB Washington/D-St On-Ramp
+162.2.197,Freeway,US-95 SB between US-95 SB Rancho Off-Ramp and US-95 SB Rancho On-Ramp
+434.3.358,Freeway,I-15 SB between 10.71 Miles south of Sloan Road and 9.71 Miles south of Sloan Road
+449.1.358,Freeway,I-15 NB between 9.71 Miles south of Sloan Road and 10.71 Miles south of Sloan Road
+557.1.128,Off-Ramp,I-515 NB Sunset Off Ramp between I-515 NB and Blue Diamond Road
+168.2.196,Freeway,US-95 SB between US-95 SB to I-15 SB Ramp and US-95 SB to I-15 NB Ramp
+171.1.196,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+514.2.158,Freeway,I 15 Exp NB between Serene Avenue and Silverado Ranch
+390.3.249,Freeway,I-15 SB between Craig Road and Alexander Road
+535.1.157,Off-Ramp,Silverado Ranch between I-15 SB and Silverado Ranch
+350.1.158,Freeway,I-15 SB between Pyle Avenue and Serene Avenue
+148.2.58,Freeway,I-15 NB between I-15 NB  Lake Mead EB Off-Ramp and I-15 NB Lake Mead WB Off-Ramp
+150.2.58,Off-Ramp,I-15 NB Lake Mead WB Off-Ramp between I-15 NB and Lake Mead Boulevard
+377.1.296,Freeway,I-515 NB between Mountain Vista Street and Denning Street
+389.2.247,Freeway,I-15 SB between Alexander Road and Colton Avenue
+142.1.55,Freeway,I-15 SB between I-15 SB Washington Off-Ramp and I-15 SB Washington On-Ramp
+472.2.250,On-Ramp,I-15 SB Craig EB On-Ramp between Craig Road and I-15 SB
+388.2.244,Freeway,I-15 SB between Colton Avenue and Cartier Avenue
+470.2.244,On-Ramp,I-15 SB Cheyenne Ave On-Ramp between Cheyenne Avenue and I-15 SB
+390.2.250,Freeway,I-15 SB between Craig Road and Alexander Road
+147.2.56,Freeway,I-15 SB between I-15 SB Lake Mead EB On-Ramp and I-15 SB Washington Off-Ramp
+3.727.494,On-Ramp,I-215 EB Decatur On-Ramp between  and 
+3.729.493,On-Ramp,I-215 EB Decatur On-Ramp between  and 
+659.1.723,Freeway,CC-215 WB between Sunset Road and Russell Road
+659.2.724,Freeway,CC-215 WB between Sunset Road and Russell Road
+660.1.725,Freeway,CC-215 WB between Russell Road and Tropicana Avenue
+667.1.729,Freeway,CC-215 EB between I-515 SB College Off Ramp and Lake Mead Boulevard
+668.1.727,Freeway,CC-215 EB between Lake Mead Boulevard and Cheyenne Avenue
+669.2.726,Freeway,CC-215 EB between Cheyenne Avenue and Alexander Road
+405.3.548,Freeway,US-95 SB between Torrey Pines Drive and Rainbow Boulevard
+658.2.549,Freeway,CC-215 WB between Durango and Sunset Road
+659.1.550,Freeway,CC-215 WB between Sunset Road and Russell Road
+659.2.551,Freeway,CC-215 WB between Sunset Road and Russell Road
+660.1.552,Freeway,CC-215 WB between Russell Road and Tropicana Avenue
+667.1.556,Freeway,CC-215 EB between I-515 SB College Off Ramp and Lake Mead Boulevard
+668.1.554,Freeway,CC-215 EB between Lake Mead Boulevard and Cheyenne Avenue
+668.2.555,Freeway,CC-215 EB between Lake Mead Boulevard and Cheyenne Avenue
+669.2.553,Freeway,CC-215 EB between Cheyenne Avenue and Alexander Road
+2.721.453,Freeway,CC-215 EB between  and 
+2.723.455,Freeway,CC-215 EB between  and 
+5.739.460,Freeway,CC-215 EB between  and 
+705.1.728,Freeway,I-11 SB between US-95 and Buchanan Blvd
+712.4.728,Freeway,I-11 NB between Buchanan Blvd and US-95
+705.2.729,Freeway,I-11 SB between US-95 and Buchanan Blvd
+705.3.730,Freeway,I-11 SB between US-95 and Buchanan Blvd
+705.4.731,Freeway,I-11 SB between US-95 and Buchanan Blvd
+712.3.729,Freeway,I-11 NB between Buchanan Blvd and US-95
+2.731.553,Freeway,CC-215 EB between  and 
+706.1.732,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+706.2.733,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+706.3.734,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+706.4.735,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+706.5.736,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+707.1.737,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+707.2.738,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+707.3.739,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+707.4.740,Freeway,I-11 SB between Buchanan Blvd and Hoover Dam Bridge Int/93
+710.2.740,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+710.3.739,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+710.4.738,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+710.5.737,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+711.1.736,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+711.2.735,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+711.3.734,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+711.4.733,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+711.5.732,Freeway,I-11 NB between Hoover Dam Bridge Int/93 and Buchanan Blvd
+712.1.731,Freeway,I-11 NB between Buchanan Blvd and US-95
+712.2.730,Freeway,I-11 NB between Buchanan Blvd and US-95
+159.2.57,On-Ramp,I-15 SB  Lake Mead EB On-Ramp between Lake Mead Boulevard and I-15 SB
+139.2.53,Off-Ramp,I-15 NB Wash./D-Street Off-Ramp between I-15 NB and D Street
+528.1.96,Freeway,I-15 SB CD between Warm Springs Road and Clark County 215
+528.3.76,Freeway,I-15 SB CD between Sunset Road and Oquendo
+488.1.258,Freeway,CC-215 WB between Gibson Rd and Drawback St
+485.2.258,Freeway,CC-215 EB between Drawback St and Gibson Rd
+444.1.100,Freeway,I-15 NB between 4.71 Miles south of Sloan Road and 5.71 Miles south of Sloan Road
+536.1.100,Off-Ramp,I-15 NB Jean Off Ramp between I-15 NB and Jean
+61.1.18,Off-Ramp,I-15 NB Tropicana On-Ramp between I-15 NB and Tropicana Avenue
+61.2.18,Off-Ramp,I-15 NB Tropicana On-Ramp between I-15 NB and Tropicana Avenue
+213.1.59,Off-Ramp,I-515 SB Charleston Off-Ramp between I-515 SB and Charleston Boulevard
+9.3.2,Freeway,CC-215 WB between I-15 SB to I-215 WB/EB Ramp and I-215 WB Decatur Off-Ramp
+11.1.2,Off-Ramp,I-215 WB Decatur Off-Ramp between CC-215 WB and Decatur Road
+727.1.741,On-Ramp,I-11 NB Bridge US 93 On Ramp between I-11 NB and Hoover Dam Bridge Int/93
+716.1.729,Off-Ramp,I-11 NB US 95 Off Ramp between I-11 NB and US-95
+719.1.729,On-Ramp,I-11 SB US 95 On Ramp between I-11 SB and US-95
+728.2.742,Off-Ramp,I-11 SB Bridge US 93 Off Ramp between I-11 SB and Hoover Dam Bridge Int/93
+702.1.721,Freeway,I-11 SB between Paradise Hills Dr and US-93
+702.2.723,Freeway,I-11 SB between Paradise Hills Dr and US-93
+702.3.726,Freeway,I-11 SB between Paradise Hills Dr and US-93
+702.3.723,Freeway,I-11 SB between Paradise Hills Dr and US-93
+703.1.725,Freeway,I-11 SB between US-93 and Silverline Rd
+715.1.724,Freeway,I-11 NB between US-93 and Paradise Hills Dr
+715.2.722,Freeway,I-11 NB between US-93 and Paradise Hills Dr
+714.2.726,Freeway,I-11 NB between Silverline Rd and US-93
+702.2.721,Freeway,I-11 SB between Paradise Hills Dr and US-93
+715.3.722,Freeway,I-11 NB between US-93 and Paradise Hills Dr
+658.2.549,Freeway,CC-215 WB between I-215 NB Alexander and Lone Mtn
+659.1.550,Freeway,CC-215 WB between I-215 NB Lone Mtn and Ann Road
+659.2.551,Freeway,CC-215 WB between I-215 NB Lone Mtn and Ann Road
+667.1.556,Freeway,CC-215 EB between I-215 SB Lone Mtn and Alexander Road
+668.1.554,Freeway,CC-215 EB between I-215 SB Ann Rd and Lone Mtn
+668.2.555,Freeway,CC-215 EB between I-215 SB Ann Rd and Lone Mtn
+730.1.745,Freeway,US-93 NB between US-93 NB and US-95 NB
+733.1.747,Freeway,US-93 SB at I-11 SB Ramp between I-11 SB and US-93 SB at I-11 SB Ramp
+738.1.745,On-Ramp,US-93 NB at US 95 NB On Ramp between US-93 NB at US 95 NB On Ramp and US-93 NB
+715.1.725,Freeway,I-11 NB between US-93 and Paradise Hills Dr
+715.2.724,Freeway,I-11 NB between US-93 and Paradise Hills Dr
+734.1.746,Freeway,US-93 NB at I-11 NB Ramp between US-93 NB at I-11 NB Ramp and I-11 NB
+733.2.747,Freeway,US-93 SB at I-11 SB Ramp between I-11 SB and US-93 SB at I-11 SB Ramp
+704.1.727,Freeway,I-11 SB between Silverline Rd and US-95
+713.2.727,Freeway,I-11 NB between US-95 and Silverline Rd
+717.2.727,On-Ramp,I-11 NB US 95 On Ramp between I-11 NB and US-95
+718.2.727,Off-Ramp,I-11 SB US 95 Off Ramp between I-11 SB and US-95
+731.2.744,Freeway,US-93 SB between US-93 SB and US-95 SB
+737.2.744,Off-Ramp,US-93 SB at US 95 SB Off Ramp between US-93 SB and US-93 SB at US 95 SB Off Ramp
+2.749.727,Freeway,CC-215 EB between  and 
+3.725.516,On-Ramp,I-215 EB Decatur On-Ramp between I-15 SB and 
+702.3.724,Freeway,I-11 SB between Paradise Hills Dr and US-93
+703.1.726,Freeway,I-11 SB between US-93 and Silverline Rd
+714.2.725,Freeway,I-11 NB between Silverline Rd and US-93
+715.1.748,Freeway,I-11 NB between US-93 and Paradise Hills Dr
+733.1.749,Freeway,US-93 SB at I-11 SB Ramp between I-11 SB and US-93 SB at I-11 SB Ramp
+734.2.723,Freeway,US-93 NB at I-11 NB Ramp between US-93 NB at I-11 NB Ramp and I-11 NB
+720.2.725,Off-Ramp,I-11 NB US 93 Off Ramp between I-11 NB and RR Pass Off Ramp
+1.555.738,Off-Ramp,I-215 EB Decatur Off-Ramp between  and 
+1.556.735,Off-Ramp,I-215 EB Decatur Off-Ramp between  and 
+740.1.549,Off-Ramp,I-215 NB Lone Mtn Off Ramp between I-215 NB Lone Mtn Off Ramp and I-215 NB
+744.1.553,Off-Ramp,I-215 SB Ann Off Ramp between I-215 SB Ann Off Ramp and I-215 SB
+745.2.554,On-Ramp,I-215 SB Ann On Ramp between I-215 SB Ann On Ramp and I-215 SB
+23.1.8,Interchange,I-215 WB/I-15 NB between CC-215 WB and I-15 NB
+23.2.8,Interchange,I-215 WB/I-15 NB between CC-215 WB and I-15 NB
+30.2.8,Interchange,I-215 EB to I-15 NB Ramp between CC-215 EB and I-15 NB
+39.1.8,Freeway,I-15 NB between I-215 EB to I-15 NB Ramp and I-215 WB to I-15 NB Ramp
+524.3.8,Freeway,I-15 NB CD between Clark County 215 and Warm Springs Road
+741.2.550,On-Ramp,I-215 NB Lone Mtn On Ramp between I-215 NB Lone Mtn On Ramp and I-215 NB
+427.1.339,Freeway,I-15 SB between 3.71 Miles south of Sloan Road and 2.71 Miles south of Sloan Road
+442.3.339,Freeway,I-15 NB between 2.71 Miles south of Sloan Road and 3.71 Miles south of Sloan Road
+743.2.552,On-Ramp,I-215 NB Ann On Ramp between I-215 NB Ann On Ramp and I-215 NB
+746.1.555,Off-Ramp,I-215 SB Lone Mtn Off Ramp between I-215 SB Lone Mtn Off Ramp and I-215 SB
+747.2.556,On-Ramp,I-215 SB Lone Mtn On Ramp between I-215 SB Lone Mtn On Ramp and I-215 SB
+732.2.728,On-Ramp,I-11 NB US 95 NB On Ramp between US-95 NB and I-11 NB US 95 NB On Ramp
+127.1.531,Interchange,I-15 NB to US-95 NB Ramp between I-15 NB and US-95 NB
+167.1.531,Freeway,US-95 NB between I-15 NB to US-95 NB Ramp and US-95 NB Rancho Off-Ramp
+198.1.70,Freeway,I-515 NB between I-515 NB LV Blvd Off-Ramp and I-515 NB LV Blvd On-Ramp
+129.2.751,Interchange,I-15 NB to US-95 SB Ramp between I-15 NB and I-515 SB
+174.1.752,Interchange,US-95 SB to I-15 NB Ramp between I-515 SB and I-15 NB
+190.1.750,Freeway,I-515 SB between I-15 SB to US-95 Ramp and I-515 SB Casino Ctr Off-Ramp
+190.2.74,Freeway,I-515 SB between I-15 SB to US-95 Ramp and I-515 SB Casino Ctr Off-Ramp
+190.3.74,Freeway,I-515 SB between I-15 SB to US-95 Ramp and I-515 SB Casino Ctr Off-Ramp
+168.1.196,Freeway,US-95 SB between US-95 SB to I-15 SB Ramp and US-95 SB to I-15 NB Ramp
+168.2.532,Freeway,US-95 SB between US-95 SB to I-15 SB Ramp and US-95 SB to I-15 NB Ramp
+167.1.753,Freeway,US-95 NB between I-15 NB to US-95 NB Ramp and US-95 NB Rancho Off-Ramp
+167.2.754,Freeway,US-95 NB between I-15 NB to US-95 NB Ramp and US-95 NB Rancho Off-Ramp
+101.1.755,On-Ramp,I-15 NB Sahara On-Ramp between Sahara Avenue and I-15 NB
+110.1.756,Freeway,I-15 NB between I-15 NB Sahara On-Ramp and I-15 NB Charleston EB Off-Ramp
+114.2.757,Off-Ramp,I-15 NB Charleston Off-Ramp between I-15 NB and Charleston Boulevard
+110.2.41,Freeway,I-15 NB between I-15 NB Sahara On-Ramp and I-15 NB Charleston EB Off-Ramp
+122.1.758,Freeway,I-15 NB between I-15 NB Charleston On-Ramp and I-15 NB to US-95 NB Ramp
+127.2.531,Interchange,I-15 NB to US-95 NB Ramp between I-15 NB and US-95 NB
+136.1.47,Freeway,I-15 SB between US-95 NB to I-15 SB Ramp and US-95 SB to I-15 SB Ramp
+136.2.762,Freeway,I-15 SB between US-95 NB to I-15 SB Ramp and US-95 SB to I-15 SB Ramp
+170.2.761,On-Ramp,I-15 SB MLK/Charleston On-Ramp between Martin Luther King Boulevard and I-15 SB
+171.3.761,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+78.1.773,Freeway,I-15 SB between I-15 SB Flamingo On-Ramp and I-15 SB Tropicana Off-Ramp
+102.1.769,Freeway,I-15 SB between I-15 SB Sahara Off-Ramp and I-15 SB Sahara On-Ramp
+102.2.771,Freeway,I-15 SB between I-15 SB Sahara Off-Ramp and I-15 SB Sahara On-Ramp
+102.3.37,Freeway,I-15 SB between I-15 SB Sahara Off-Ramp and I-15 SB Sahara On-Ramp
+103.1.770,Off-Ramp,I-15 SB Sahara WB Off-Ramp between I-15 SB and Sahara Avenue
+109.2.772,On-Ramp,I-15 SB Boulder Off-Ramp between Sahara Avenue and I-15 SB
+117.2.766,Freeway,I-15 SB between I-15 SB MLK/Charleston Off-Ramp and I-15 SB MLK/Charleston On-Ramp
+117.3.767,Freeway,I-15 SB between I-15 SB MLK/Charleston Off-Ramp and I-15 SB MLK/Charleston On-Ramp
+118.2.763,Off-Ramp,I-15 SB MLK/Charleston Off-Ramp between I-15 SB and Martin Luther King Boulevard
+121.1.765,On-Ramp,I-15 SB MLK Blvd On-Ramp between Martin Luther King Boulevard and I-15 SB
+121.2.43,On-Ramp,I-15 SB MLK Blvd On-Ramp between Martin Luther King Boulevard and I-15 SB
+121.3.768,On-Ramp,I-15 SB MLK Blvd On-Ramp between Martin Luther King Boulevard and I-15 SB
+171.1.761,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+171.4.763,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+129.1.760,Interchange,I-15 NB to US-95 SB Ramp between I-15 NB and I-515 SB
+171.2.764,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+171.3.541,Interchange,US-95 SB to I-15 SB Ramp between US-95 SB and I-15 SB
+69.3.776,Freeway,I-15 SB between I-15 SB Tropicana On-Ramp and I-15 SB Russell Off-Ramp
+70.1.775,Freeway,I-15 NB between I-15 NB Tropicana On-Ramp and I-15 NB Flamingo EB Off-Ramp
+126.1.759,Off-Ramp,I-15 NB MLK Blvd Off-Ramp between I-15 NB and Martin Luther King Boulevard
+127.1.759,Interchange,I-15 NB to US-95 NB Ramp between I-15 NB and US-95 NB
+748.1.777,On-Ramp,I-15 SB Pinto On Ramp between I-15 SB Pinto On Ramp and I-15 SB
+749.1.201,On-Ramp,US-95 NB MLK On Ramp between US-95 NB MLK On Ramp and US-95 NB
