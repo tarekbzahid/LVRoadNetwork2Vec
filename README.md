@@ -235,10 +235,6 @@ This project enables various graph-based analyses:
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-### Contributors
-
-- [Add contributors here]
-
 ## Data Sources
 
 - **UNLV Shredder Data**: 2018-2019 traffic detector data
@@ -246,14 +242,19 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-[Add license information]
+MIT License
 
 ## Citation
 
 If you use this project in your research, please cite:
 
 ```
-[Add citation information]
+T. Bin Zahid and B. T. Morris, "Benchmarking/Limitations of Traffic Prediction with Noisy Field Measurements," 2024 IEEE International Conference on Vehicular Electronics and Safety (ICVES), Ahmedabad, India, 2024, pp. 1-6, doi: 10.1109/ICVES61986.2024.10928136. keywords: {Training;Vehicular and wireless technologies;Accuracy;Roads;Urban planning;Predictive models;Transformers;Data models;Robustness;Noise measurement},
+
+T. b. Zahid and B. Morris, "Using Deep Traffic Prediction for EMFAC Emission Estimation and Visualization," 2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC), Edmonton, AB, Canada, 2024, pp. 2488-2493, doi: 10.1109/ITSC58415.2024.10919675. keywords: {Solid modeling;Accuracy;Decision making;Transportation;Estimation;Data visualization;Predictive models;Transformers;Data models;Environmental factors},
+
+
+
 ```
 
 ## Contact
