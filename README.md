@@ -257,10 +257,6 @@ T. b. Zahid and B. Morris, "Using Deep Traffic Prediction for EMFAC Emission Est
 
 ```
 
-## Contact
-
-For questions or collaboration opportunities, please [add contact information].
-
 ---
 
 **Last Updated**: January 2026
